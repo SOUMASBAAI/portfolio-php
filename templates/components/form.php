@@ -2,6 +2,7 @@
 Mail(r) / Telephone
 Objet (Autre, formation, collaboration, Devis,)
 Message -->
+<body class="bg-black text-white font-sans">
 <div class="m-4 shadow-sm">
     <form action="" method="post" class="flex flex-col gap-3">
         <!-- Objets -->

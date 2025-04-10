@@ -21,7 +21,7 @@ function toSlug(string $stackIcon): string
 <h1 class="bg-clip-text bg-gradient-to-br from-slate-800 to-slate-400 text-6xl font-bold text-transparent text-center">
     Mes projets
 </h1>
-
+<body class="bg-black text-white font-sans">
 <?php foreach ($projects as $item): ?>
     <div class="p-4 flex border-b border-slate-500">
         <div class="w-1/2 border-r border-slate-500">
